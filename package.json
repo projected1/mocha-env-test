@@ -1,0 +1,9 @@
+{
+  "name": "mocha-env-test",
+  "scripts": {
+    "test": "mocha --require test-util --recursive"
+  },
+  "dependencies": {
+    "mocha": "^8.4.0"
+  }
+}
